@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Thiri Phyo Wai!<br>🎓 4th Year Computer Engineering Student at Marwadi University, passionate about technology and software development.<br><br>💻 Languages & Skills:<br>C, C++: 💻<br>Web Development (MERN Stack): 🌐<br>DevOps (Bash Scripting, Docker, Ansible): 🚀<br>Networking & Cloud Engineering (AWS, Google Cloud): ☁️<br><br>📚 Currently Learning:<br>Application Deployment & Testing 🛠️<br>Kubernetes 🐳<br>Google Cloud Skill Boost Labs ☁️<br><br>🌱 Community Involvement:<br>Writing blogs and sharing knowledge on LinkedIn 📝<br><br>💪 Fun Fact: I enjoy hitting the gym to stay fit and often think about coding solutions while lifting weights! 🏋️‍♂️ It’s like debugging my way to a healthier life!
+👋 Hello, I'm Thiri Phyo Wai!<br>🎓 4th Year Computer Engineering Student at Marwadi University, passionate about technology and Data science.<br><br>💻 Languages & Skills:<br>C, C++, Python: 💻<br>Web Development (MERN Stack): Static, Tableu, PowerBI, Excel, SQL ☁️<br><br>📚 Currently Learning:<br>AI, ML and DL <br><br>🌱 Community Involvement:<br>Writing blogs and sharing knowledge on LinkedIn 📝<br>
 
 
 ## 🌐 Socials:
