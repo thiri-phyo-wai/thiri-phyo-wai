@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Thiri Phyo Wai!<br>🎓 4th Year Computer Engineering Student at Marwadi University, passionate about technology and Data science.<br><br>💻 Languages & Skills:<br>C, C++, Python: 💻<br>Web Development (MERN Stack): Static, Tableu, PowerBI, Excel, SQL ☁️<br><br>📚 Currently Learning:<br>AI, ML and DL <br><br>🌱 Community Involvement:<br>Writing blogs and sharing knowledge on LinkedIn 📝<br>
+👋 Hello, I'm Thiri Phyo Wai!<br>🎓 4th Year Computer Engineering Student at Marwadi University, passionate about technology and Data science.<br><br>💻 Languages & Skills:<br>C, C++, Python: <br>Web Development (MERN Stack): Static, Tableu, PowerBI, Excel, SQL <br><br>📚 Currently Learning:<br>AI, ML and DL <br><br>🌱 Community Involvement:<br>Writing blogs and sharing knowledge on LinkedIn 📝<br>
 
 
 ## 🌐 Socials:
